@@ -1,7 +1,7 @@
 dette er en
 fil
 med en 
-del linjer
+del linjer2
 og innhold
 som er endret
 4 ganger
